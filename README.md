@@ -17,9 +17,13 @@ git clone https://github.com/OxFOIQ/AgeDetectionModel.git
 ## Required dependencies:
 
 Python 3.x
+
 OpenCV
+
 NumPy
+
 scikit-learn
+
 Keras
 
 ## Usage
